@@ -1,4 +1,6 @@
-my_name = input()
-print(my_name)
-print(my_name)
-print(my_name)
+name = input()
+surname = input()
+age = input()
+
+
+print("Имя:", name, ", Фамилия:",surname , ", Возраст:", age,". Студент BPS")

@@ -11,3 +11,4 @@ evgeny_vlasov@yahoo.com
 https://github.com/vlasove/Py1_Mar
 
 ProblemSet1: https://contest.yandex.ru/contest/17296/problems/
+ProblemSet2: https://contest.yandex.ru/contest/14840/problems/
