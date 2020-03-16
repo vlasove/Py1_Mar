@@ -9,3 +9,5 @@ evgeny_vlasov@yahoo.com
 15:40 - 17:10
 
 https://github.com/vlasove/Py1_Mar
+
+ProblemSet1: https://contest.yandex.ru/contest/17296/problems/
