@@ -12,3 +12,6 @@ print("My metrics is : ", metrics)
 
 str_metrics = str(metrics)
 print(str_metrics + "lolkek", type(str_metrics))
+
+
+
