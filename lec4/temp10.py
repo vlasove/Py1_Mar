@@ -1,4 +1,4 @@
-message =' ello world'
+message ='Hello world'
 
 print(message[0], message[1], message[2], message[3])
 print(message[0:5:2])
