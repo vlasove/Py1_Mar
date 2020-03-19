@@ -17,4 +17,17 @@ ProblemSet2: https://contest.yandex.ru/contest/14840/problems/
 ProblemSet3: https://contest.yandex.ru/contest/14849/problems/
 
 
+
+
+Practice Link1: https://www.codewars.com/
+
+
+Practice Link2: https://codeforces.com/
+
+
+Practice Link3: https://leetcode.com/
+
+
+
+
 ProblemSet4: https://contest.yandex.ru/contest/14985/problems/
